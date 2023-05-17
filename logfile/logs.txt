@@ -1,0 +1,6 @@
+{"id":"f38e14d3-4165-4ad9-9019-1a063cd46d66","msg":"INFO: the server is running"}
+{"id":"674c941a-b44a-4f51-9b95-8cc5370c3891","msg":"INFO: the data has been returned"}
+{"id":"2ebf0999-4f81-441c-bcdf-42c7e0dfe2c5","msg":"WARN: the ES6 syntax does not support require"}
+{"id":"e21635b9-7651-45a5-b58a-9c9ab4934874","msg":"INFO: the data has been returned"}
+{"id":"65573f33-19be-4df0-9c57-1a96bcd86e40","msg":"WARN: the ES6 syntax does not support require"}
+{"id":"12a8d532-cbf5-44f2-8bfd-14448c068d23","msg":"INFO: the server is running"}
